@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  custom-spotify-release-radar:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-02-03T14:17:47.209816391+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 79c6b1b2f6d8a72f102b3d5ad44a16406f481f4d7ecaf02f88a53cc4c3eef8d6
+    name: custom-spotify-release-radar
+    type: application
+    urls:
+    - https://hown3d.github.io/helm-charts/custom-spotify-release-radar-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-03T14:17:47.209407495+01:00"
