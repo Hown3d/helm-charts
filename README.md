@@ -14,4 +14,4 @@ $ git commit -av
 $ git push origin
 ```
 
-From there, I can do a `helm repo add CHART_NAME https://hown3d.github.com/helm-charts
+From there, I can do a `helm repo add NAME https://hown3d.github.com/helm-charts`
